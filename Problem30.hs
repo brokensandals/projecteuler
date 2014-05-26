@@ -1,3 +1,5 @@
+-- (17.48 secs, 9641951008 bytes)
+
 import Data.List
 import Data.Maybe
 
